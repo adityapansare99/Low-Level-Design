@@ -22,3 +22,10 @@ Synchronized_method.class
 Volatile.class
 ReentrantLockDemo.class
 TicketBooking.class
+ExpiringLock.class
+ReentrantLockTimeOut.class
+LoginTry.class
+SemaphoreDemo.class
+TicketBooking.class
+TryLock_timeout.class
+Write_Read_Lock.class
