@@ -29,3 +29,6 @@ SemaphoreDemo.class
 TicketBooking.class
 TryLock_timeout.class
 Write_Read_Lock.class
+BankAccount.class
+Deadlock.class
+TransferAmount.class
