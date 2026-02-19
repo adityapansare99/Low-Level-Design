@@ -32,3 +32,9 @@ Write_Read_Lock.class
 BankAccount.class
 Deadlock.class
 TransferAmount.class
+Lock_Ordering.class
+Lock_Ordering$Resource.class
+TryLock_with_Timeout.class
+TryLock_with_Timeout$Resource.class
+Minimize_Nested_Locking.class
+Minimize_Nested_Locking$SharedResource.class
