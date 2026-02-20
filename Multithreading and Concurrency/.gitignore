@@ -38,3 +38,5 @@ TryLock_with_Timeout.class
 TryLock_with_Timeout$Resource.class
 Minimize_Nested_Locking.class
 Minimize_Nested_Locking$SharedResource.class
+Coffee_machine.class
+CoffeeMachine.class
