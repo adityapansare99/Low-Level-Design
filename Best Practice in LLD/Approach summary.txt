@@ -1,0 +1,36 @@
+🔹 1. Clarify Requirements
+Understand functional requirements (features the system must provide).
+Identify non-functional requirements (performance, scalability, security, availability).
+Define hero use cases (most common and critical user flows).
+🔹 2. Identify Core Entities
+Determine main domain objects (e.g., User, Order, Car, Ticket).
+Define their attributes, responsibilities, and relationships.
+Add supporting entities if needed.
+🔹 3. Visualize Interaction Flow
+Understand how users and system components interact.
+Use sequence diagrams or flowcharts.
+Consider external integrations (payment gateways, notifications, APIs).
+🔹 4. Define Class Structure
+Apply OOP and SOLID principles for clean and maintainable design.
+Separate layers such as Controller, Service, Repository, Domain models.
+Aim for loose coupling and high cohesion.
+Design keeping production scalability and fault tolerance in mind.
+🔹 5. Define Core Use Cases & Methods
+Specify method responsibilities, inputs/outputs, and collaborating classes.
+Cover CRUD operations, real-time flows, and background tasks.
+🔹 6. Apply Design Patterns
+Use patterns like Singleton, Factory, Observer, Strategy where suitable.
+Follow clean code practices (readable naming, modular design, documentation).
+🔹 7. Handle Edge Cases
+Address concurrency issues, partial failures, retry mechanisms, and state consistency.
+Use mitigation strategies such as locks, caching, compensation logic, and balance consistency vs availability.
+🔹 8. Create Class Diagram & Package Structure
+Show class relationships and UML structure.
+Organize code into layer-based or feature-based packages.
+🔹 9. Plan Future Enhancements
+Design for extensibility and scalability.
+Consider third-party integrations, analytics, caching, load balancing, etc.
+⭐ Interview Tips
+Start high-level → then deep dive.
+Focus more on architecture than coding.
+Interviewers evaluate design thinking, SOLID usage, scalability awareness, and edge-case handling.
